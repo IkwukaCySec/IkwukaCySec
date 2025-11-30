@@ -1,21 +1,21 @@
-# 🚀 Ikwuka CySec: Cybersecurity Analyst Portfolio
+# 🚀 Cybersecurity Analyst | Cloud Security Analyst
 
-<img src="https://via.placeholder.com/1200x400/0a2540/FFFFFF?text=Defend.+Detect.+Automate." alt="Hero Banner: Cyber Shield with Code Rain" width="100%">
+<img src="./cybersecurity_banner_image.jpeg" alt="Hero Banner: Cyber Shield" width="100%">
 
-Hey! I'm **Ikwuka**, a passionate Cybersecurity Analyst building defenses against tomorrow's threats. Currently crushing **ISC² CC**, **Google Cybersecurity Cert**, **Cisco CyberOps**, **Fortinet NSE 1-5**, and **IBM Analyst Pro** (ETA: Mar 2026). 
+Hey! I'm **Ikwuka**, a passionate Cybersecurity Analyst building defenses against tomorrow's threats. Recently crushed **ISC2 Certified in Cybersecurity (CC)**, and **Google Cybersecurity Professional Certificate**; and currently crushing **Google Cloud Cybersecurity Professional Certificate**, **Cisco Cybersecurity Associate (CyberOps)**, **Fortinet Network Security Expert (NSE 1-5)**, and **IBM Cybersecurity Analyst Professional Certificate** (ETA: June 2026).
 
-From **MITRE ATT&CK mappings** to **SIEM dashboards**, this repo is my hands-on lab – with code, visuals, and live demos. Let's collab on threat hunting! 🌐
+From **MITRE ATT&CK mappings** to **SIEM dashboards**, this repo is my hands-on lab – with code, visuals, and live demos. Let's collaborate on threat hunting! 🌐
 
-## 🛡️ Quick Stats
-| Cert | Status | Key Skills |
+## 🛡️ Quick Statistics
+| Certificate | Status | Key Skills |
 |------|--------|------------|
-| ISC² CC | ✅ Completed | Incident Response, Risk Mgmt |
-| Google CySec | 🔄 In Progress | Python Automation, SIEM |
+| ISC2 Certified in Cybersecurity (CC) | ✅ Completed | Incident Response, Risk Management |
+| Google Cybersecurity Professional Certificate | ✅ Completed | SQL, Python & Bash Automation, SIEM |
+| Google Cloud Cybersecurity Certificate | 🔄 In Progress | DevSecOps, Generative AI, Cloud Security |
+| Microsoft Azure Security Engineer Associate (AZ-500) | 🔄 In Progress | Kubernetes, Virtual Machines, Database Architecture and Administration |
+| IBM Cybersecurity Analyst | 🔄 In Progress | Cloud Security, Forensics |
 | Cisco CyberOps | 🔄 In Progress | Wireshark, IDS/IPS |
 | Fortinet NSE | 🔄 In Progress | FortiGate Firewalls, VPN |
-| IBM Analyst | 🔄 In Progress | Cloud Security, Forensics |
-
-<img src="https://github.com/IkwukaCySec/IkwukaCySec/blob/main/assets/progress-bar.gif?raw=true" alt="Animated Progress Bar: Cert Completion 40%" width="600">
 
 ## 🔥 Featured Projects (With Demos)
 1. **Phishing Buster Tool** – Python script scans URLs via VirusTotal API. Reduced false positives by 30% in sims.
@@ -35,7 +35,5 @@ From **MITRE ATT&CK mappings** to **SIEM dashboards**, this repo is my hands-on 
 <img src="https://ghchart.rshah.org/IkwukaCySec" alt="GitHub Contribution Graph: Green Streak Calendar" />
 
 ## 🤝 Let's Connect
-- Open to **SOC Analyst roles** (Remote/EU/US) or **open-source collabs** on EDR tools.
-- Hire me? [Resume PDF](assets/Cybersecurity_Analyst.pdf) | Email: ikwuka.cysec@gmail.com
-
-<img src="https://via.placeholder.com/1200x200/1a1a1a/00FF00?text=Fortify+Your+Future+with+Ikwuka+CySec" alt="Footer: Ready To Make History!">
+- Open to **Cybersecurity Analyst and Cloud Security Analyst roles** (Remote/EU/US) or **open-source collabs** on EDR tools.
+- Hire me? **[Resume PDF](assets/Cybersecurity_Analyst.pdf)** | **[Email](mailto:ikwuka.cysec@gmail.com)**
