@@ -1,6 +1,6 @@
 # 🚀 Cybersecurity Analyst | Cloud Security Analyst
 
-<img src="./cybersecurity_banner_image.jpeg" alt="Hero Banner: Cyber Shield" width="100%">
+<img src="./cybersecurity_banner_image.jpeg" alt="Hero Banner: Cyber Shield" max-width="100%" height="auto">
 
 Hey! I'm **Ikwuka**, a passionate Cybersecurity Analyst building defenses against tomorrow's threats. Recently crushed **ISC2 Certified in Cybersecurity (CC)**, and **Google Cybersecurity Professional Certificate**; and currently crushing **Google Cloud Cybersecurity Professional Certificate**, **Cisco Cybersecurity Associate (CyberOps)**, **Fortinet Network Security Expert (NSE 1-5)**, and **IBM Cybersecurity Analyst Professional Certificate** (ETA: June 2026).
 
@@ -36,4 +36,4 @@ From **MITRE ATT&CK mappings** to **SIEM dashboards**, this repo is my hands-on 
 
 ## 🤝 Let's Connect
 - Open to **Cybersecurity Analyst and Cloud Security Analyst roles** (Remote/EU/US) or **open-source collabs** on EDR tools.
-- Hire me? **[Resume PDF](assets/Cybersecurity_Analyst.pdf)** | **[Email](mailto:ikwuka.cysec@gmail.com)**
+- Hire me? **[Resume PDF](/assets/Ikwuka-Okoye_Cybersecurity-Analyst_Resume.pdf)** | **[Email](mailto:ikwuka.cysec@gmail.com)**
